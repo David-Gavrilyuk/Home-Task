@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: #2d2d2d;
+  color: white;
+}
+
+button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 18px;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+input {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 18px;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+p {
+  font-weight: bold;
+  font-size: large;
+}
